@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-### ✨ I'm a passionate Frontend Developer studying in SoftUni University!
+### ✨ I'm a passionate Frontend Developer studying at SoftUni University!
 ### 🧬 You can check my personal website for additional information - http://ntzolov.com
 ### 📧 You can reach me at ntzolov@gmail.com
 
