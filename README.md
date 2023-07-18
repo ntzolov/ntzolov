@@ -1,6 +1,9 @@
-### Hi there 👋
+### 👋 Hi there!
+### ✨ I'm a passionate Frontend Developer studying in SoftUni University!
+### 🧬 You can check my personal website for additional information - http://ntzolov.com
+### 📧 You can reach me at ntzolov@gmail.com
 
-[![Nikolay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntzolov&show_icons=true&theme=tokyonight)](https://github.com/ntzolov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntzolov&layout=compact&theme=tokyonight)](https://github.com/ntzolov/github-readme-stats)
 
 <!--
 **ntzolov/ntzolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
