@@ -1,5 +1,6 @@
 ### 👋 Hi there!
-### ✨ I'm a passionate Frontend Developer studying at SoftUni University!
+### ✨ I'm a passionate Frontend Developer graduated at SoftUni University.
+### 🌱 I’m currently learning NextJs.
 ### 🧬 You can check [my personal website](http://ntzolov.com) for additional information.
 ### 📧 You can reach me at: ntzolov@gmail.com
 
