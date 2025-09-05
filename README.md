@@ -1,6 +1,5 @@
 ### 👋 Hi there!
 ### ✨ I'm a passionate Web Developer graduated at Software University.
-### 🌱 I’m currently part of nibnab inc., as Software Engineer Intern.
 ### 🧬 You can check [my personal website](http://ntzolov.com) for additional information.
 ### 📧 You can reach me at: ntzolov@gmail.com
 
